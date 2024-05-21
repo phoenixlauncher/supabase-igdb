@@ -1,3 +1,3 @@
 # supabase-igdb
 
-scripts to migrate igdb to supabase db for phoenix
+horrible code to migrate igdb to supabase db for phoenix
